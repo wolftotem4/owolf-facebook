@@ -3,7 +3,7 @@
     "license": "MIT",
     "require": {
         "league/oauth2-facebook": "^2.0",
-        "wolftotem4/owolf-laravel": "v0.1.0"
+        "wolftotem4/owolf-laravel": "^0.1.0"
     },
     "autoload": {
         "psr-4": {
