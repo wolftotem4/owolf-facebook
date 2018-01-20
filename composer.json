@@ -3,19 +3,13 @@
     "license": "MIT",
     "require": {
         "league/oauth2-facebook": "^2.0",
-        "wolftotem4/owolf-laravel": "dev-master"
+        "wolftotem4/owolf-laravel": "v0.1.0"
     },
     "autoload": {
         "psr-4": {
             "OWolf\\Facebook\\": "src/OWolf/Facebook/"
         }
     },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/wolftotem4/owolf-laravel.git"
-        }
-    ],
     "extra": {
         "laravel": {
             "providers": [
